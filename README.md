@@ -1,5 +1,5 @@
 ✋ CS449 Gesture-Based Control
-📝 What's This All About?
+📝 What is This All About?
 Hey! This project is a really cool system that lets you control your computer with just your hand gestures! It's a project for the CS449/549 course that uses your webcam to recognize hand movements and translate them into commands like moving the mouse, clicking, and even scrolling. It's like something out of a sci-fi movie!
 
 🚀 What Can It Do?
